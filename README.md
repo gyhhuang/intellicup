@@ -11,9 +11,13 @@ Contains all documentation files:
 
 ### ppts/
 Contains all presentation files:
-- `CSC431 SAS Presentation Gargi, Sofia, Gabe.pdf` - Software Architecture Specification presentation
-- `CSC 431 SRS Presentation - Gargi, Sofia, Gabriel.pptx.pdf` - Software Requirements Specification presentation
+- `CSC431 SAS Presentation Gargi, Sofia, Gabe.pdf` - Final Presentation
+- `CSC 431 SRS Presentation - Gargi, Sofia, Gabriel.pptx.pdf` - Midterm Presentation
 
 ### mockup/
 Contains design mockups:
 - `CSC 431 Mockup.png` - Visual mockup of the Intellicup interface
+
+### reflection/
+Contains my individual course reflection:
+- `CSC431 Individual Course Reflection` - Individual Course Reflection
