@@ -1,6 +1,6 @@
 # CSC431 Final Package - Intellicup
 
-This repository contains the final package for CSC431, including documentation, presentations, and mockups for the Intellicup project.
+This repository contains my final package for CSC431: Intro to Software Engineering, including documentation, presentations, and mockups for the Intellicup project.
 
 ## Repository Structure
 
@@ -17,11 +17,3 @@ Contains all presentation files:
 ### mockup/
 Contains design mockups:
 - `CSC 431 Mockup.png` - Visual mockup of the Intellicup interface
-
-## Project Overview
-Intellicup is a smart cup system designed to monitor and track drink consumption. This repository contains all the necessary documentation, presentations, and design mockups for the project.
-
-## Team Members
-- Gargi
-- Gabriel
-- Sofia 
